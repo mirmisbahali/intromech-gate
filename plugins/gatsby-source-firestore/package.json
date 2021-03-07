@@ -8,5 +8,7 @@
   },
   "author": "Mir Misbah Ali",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {
+    "firebase-admin": "^9.5.0"
+  }
 }
