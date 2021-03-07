@@ -48,7 +48,35 @@ module.exports = {
           {
             type: "CS",
             path: "CSPaper"
-          }
+          },
+          {
+            type: "CEone",
+            path: "CE1Paper"
+          },
+          {
+            type: "CEtwo",
+            path: "CE2Paper"
+          },
+          {
+            type: "EC",
+            path: "ECPaper"
+          },
+          {
+            type: "EE",
+            path: "EEPaper"
+          },
+          {
+            type: "MEone",
+            path: "ME1Paper"
+          },
+          {
+            type: "MEtwo",
+            path: "ME2Paper"
+          },
+          {
+            type: "PI",
+            path: "PIPaper"
+          },
         ]
       }
     }
