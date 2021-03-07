@@ -2,3 +2,5 @@ node_modules/
 .cache/
 public
 firebase-key.json
+.env
+/plugins/*/node_modules
